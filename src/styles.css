@@ -1,0 +1,11 @@
+/* Add application styles & imports to this file! */
+:root {
+  --bg: #08092e;
+  --title: #571e82;
+  --radius: 0.5rem;
+  --text_primary: #fff;
+  --text_secondary: #2ca7cc;
+  --hover: #782424;
+  --focus: #7607e6;
+}
+body{}
